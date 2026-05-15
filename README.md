@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Saravanan 👋
 
-<!--
-**i-saravanan/i-saravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer (Fresher) focused on building scalable backend applications using Spring Boot and SQL.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* MySQL
+* REST APIs
+* Git & GitHub
+* HTML, CSS, JavaScript
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* DBMS
+* Spring Security
+* JWT Authentication
+* Microservices Fundamentals
+
+## Featured Projects
+
+### Role-Based Ticket Management System
+
+Backend application with authentication, ticket assignment, role-based access control, and REST APIs.
+
+### Smart Agriculture AI Project
+
+AI-integrated agriculture platform for disease detection, fertilizer optimization, and market access support.
+
+### Java Mini Projects
+
+Collection of Java practice projects focused on OOP and backend logic.
+
+## Contact
+
+* LinkedIn: www.linkedin.com/in/saravanan-i
+* Email: saravanan2004in@gmail.com
