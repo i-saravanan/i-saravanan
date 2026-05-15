@@ -1,39 +1,71 @@
-# Hi, I'm Saravanan 👋
+# 💫 About Me:
 
-Java Backend Developer (Fresher) focused on building scalable backend applications using Spring Boot and SQL.
+Hi, I'm Saravanan 👋
 
-## Tech Stack
+💻 Electronics and Communication Engineering student passionate about backend development and problem solving.
+🚀 Currently building Java & Spring Boot projects focused on real-world applications.
+📚 Continuously learning DSA, DBMS, REST APIs, and backend architecture.
+🎯 Goal: Become a skilled Java Backend Developer.
 
-* Java
-* Spring Boot
-* MySQL
-* REST APIs
-* Git & GitHub
-* HTML, CSS, JavaScript
+---
 
-## Currently Learning
+# 🌐 Connect With Me:
 
-* Data Structures & Algorithms
-* DBMS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/saravanan-i)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saravanan05082004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/i-saravanan)
+
+---
+
+# 💻 Tech Stack:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📚 Currently Learning:
+
 * Spring Security
 * JWT Authentication
-* Microservices Fundamentals
+* REST API Development
+* Data Structures & Algorithms
+* DBMS Concepts
 
-## Featured Projects
+---
 
-### Role-Based Ticket Management System
+# 🚀 Featured Projects:
 
-Backend application with authentication, ticket assignment, role-based access control, and REST APIs.
+## 🎫 Role-Based Ticket Management System
 
-### Smart Agriculture AI Project
+Backend application using Spring Boot with authentication, role-based access, and ticket handling APIs.
 
-AI-integrated agriculture platform for disease detection, fertilizer optimization, and market access support.
+## 🌱 Smart Agriculture AI Project
 
-### Java Mini Projects
+AI-powered agriculture solution for disease detection, fertilizer optimization, and market access.
 
-Collection of Java practice projects focused on OOP and backend logic.
+## 🔗 REST API Projects
 
-## Contact
+Collection of backend APIs built using Java, Spring Boot, and MySQL.
 
-* LinkedIn: www.linkedin.com/in/saravanan-i
-* Email: saravanan2004in@gmail.com
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&layout=compact)
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
