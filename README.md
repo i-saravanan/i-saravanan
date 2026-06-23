@@ -46,6 +46,10 @@ Hi, I'm Saravanan 👋
 
 Backend application using Spring Boot with authentication, role-based access, and ticket handling APIs.
 
+## 🏢 Employee Leave Management System
+
+A robust, production-ready REST API for managing employee leave requests with role-based access control, automatic leave balance tracking, and a complete leave lifecycle.
+
 ## 🌱 Smart Agriculture AI Project
 
 AI-powered agriculture solution for disease detection, fertilizer optimization, and market access.
